@@ -58,8 +58,8 @@ function makeCatByBreed() {
     
     <div class="cat-data">
     <h2 class="cat-name">${catName}</h2>
-    <p class="cat-text">${catDescr}</p>
-    <p class="cat-temperament">Temperament: ${catTemp}</p>
+    <p class="cat-text">${catDescr}</p>>
+    <p class="cat-temperament">Temperament:${catTemp}</p>
     </div> `;
 
       catInfo.innerHTML = markUp;

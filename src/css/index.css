@@ -70,3 +70,8 @@
     display: flex;
     gap: 20px;
 }
+
+
+body {
+    background-color: beige;
+}
